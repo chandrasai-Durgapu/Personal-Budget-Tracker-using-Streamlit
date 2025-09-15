@@ -1,9 +1,28 @@
 # 💰 Personal Budget Tracker
 
+[![Streamlit App](https://img.shields.io/badge/Streamlit-Live-green?logo=streamlit)](https://personal-budget-tracker.streamlit.app/)
 
-Track your spending, manage your finances, and achieve your financial goals with ease.
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+
+
+**Track your spending, manage your finances, and achieve your financial goals with ease.**
 
 This is a personal budget management application built with Streamlit and SQLite. It offers a simple yet powerful interface to log income and expenses, set monthly budgets, and visualize your financial health through interactive charts.
+
+---
+
+## 🌐 Live Demo
+
+👉 **Try it now:** [https://personal-budget-tracker.streamlit.app/](https://personal-budget-tracker.streamlit.app/)
+
+---
+
+## 🖼️ Screenshot
+
+![App Screenshot](https://github.com/<your-username>/<your-repo>/raw/main/assets/screenshot.png)
+
+---
 
 ## ✨ Features
 
@@ -97,8 +116,9 @@ The application will launch in your browser at http://localhost:8501
 ---
 
 ### 📂 Project Structure
+
+.
 ├── .streamlit/             # Streamlit configuration for theming
-│   └── config.toml
 ├── pages/                  # Main application pages
 │   ├── 1_Dashboard.py
 │   ├── 2_Transactions.py
@@ -107,11 +127,11 @@ The application will launch in your browser at http://localhost:8501
 │   └── 5_Insights.py
 ├── setup/                  # Backend and database logic
 │   └── db.py
-├── .gitignore
 ├── app.py                  # Main entry point
 ├── requirements.txt        # Python dependencies
 ├── README.md               # Project documentation
 └── budget_tracker.db       # SQLite database (auto-generated on first run)
+
 
 ---
 
