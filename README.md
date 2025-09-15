@@ -98,7 +98,7 @@ The application will launch in your browser at http://localhost:8501
 
 ### 📂 Project Structure
 .
-(````)
+
 ├── .streamlit/             # Streamlit configuration for theming
 ├── pages/                  # Main application pages
 │   ├── 1_Dashboard.py
@@ -112,7 +112,7 @@ The application will launch in your browser at http://localhost:8501
 ├── requirements.txt        # Python dependencies
 ├── README.md               # Project documentation
 └── budget_tracker.db       # SQLite database (auto-generated on first run)
-(````)
+
 ---
 
 ## 🤝 Contributing
