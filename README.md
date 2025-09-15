@@ -97,9 +97,8 @@ The application will launch in your browser at http://localhost:8501
 ---
 
 ### 📂 Project Structure
-.
-
 ├── .streamlit/             # Streamlit configuration for theming
+│   └── config.toml
 ├── pages/                  # Main application pages
 │   ├── 1_Dashboard.py
 │   ├── 2_Transactions.py
@@ -108,6 +107,7 @@ The application will launch in your browser at http://localhost:8501
 │   └── 5_Insights.py
 ├── setup/                  # Backend and database logic
 │   └── db.py
+├── .gitignore
 ├── app.py                  # Main entry point
 ├── requirements.txt        # Python dependencies
 ├── README.md               # Project documentation
