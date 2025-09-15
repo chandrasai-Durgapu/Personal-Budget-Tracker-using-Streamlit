@@ -18,9 +18,12 @@ This is a personal budget management application built with Streamlit and SQLite
 
 ---
 
+
 ## 🖼️ Screenshot
 
-![App Screenshot](https://github.com/<your-username>/<your-repo>/raw/main/assets/screenshot.png)
+![App Screenshot](https://github.com/chandrasai-Durgapu/Personal-Budget-Tracker-using-Streamlit/raw/main/assets/screenshot.png)
+
+*Dashboard view with budget and expense tracking.*
 
 ---
 
