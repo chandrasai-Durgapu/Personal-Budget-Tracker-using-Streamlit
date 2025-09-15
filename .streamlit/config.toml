@@ -1,0 +1,14 @@
+[theme]
+# This is the main accent color for buttons and highlights
+primaryColor = "#007BFF"  
+
+# This is the main background color of the app
+backgroundColor = "#FFFFFF"
+
+# This color is used for secondary backgrounds, like sidebars
+secondaryBackgroundColor = "#F0F2F6"
+
+# This is the color for all the standard text
+textColor = "#333333"  
+
+font = "sans serif"
