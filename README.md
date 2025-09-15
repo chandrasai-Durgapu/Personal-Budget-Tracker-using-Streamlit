@@ -112,12 +112,13 @@ streamlit run app.py
 
 
 The application will launch in your browser at http://localhost:8501
-.
+
+
 ---
 
 ### 📂 Project Structure
 
-.
+
 ├── .streamlit/             # Streamlit configuration for theming
 ├── pages/                  # Main application pages
 │   ├── 1_Dashboard.py
