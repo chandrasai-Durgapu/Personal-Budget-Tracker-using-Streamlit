@@ -8,7 +8,7 @@
 
 **Track your spending, manage your finances, and achieve your financial goals with ease.**
 
-This is a personal budget management application built with Streamlit and SQLite. It offers a simple yet powerful interface to log income and expenses, set monthly budgets, and visualize your financial health through interactive charts.
+This is a personal budget management application built with Python and Streamlit and SQLite. It offers a simple yet powerful interface to log income and expenses, set monthly budgets, and visualize your financial health through interactive charts.
 
 
 
