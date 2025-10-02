@@ -10,6 +10,8 @@
 
 This is a personal budget management application built with Streamlit and SQLite. It offers a simple yet powerful interface to log income and expenses, set monthly budgets, and visualize your financial health through interactive charts.
 
+
+
 ---
 
 ## 🌐 Live Demo
@@ -117,24 +119,6 @@ streamlit run app.py
 The application will launch in your browser at http://localhost:8501
 
 
----
-
-### 📂 Project Structure
-
-
-├── .streamlit/             # Streamlit configuration for theming
-├── pages/                  # Main application pages
-│   ├── 1_Dashboard.py
-│   ├── 2_Transactions.py
-│   ├── 3_Manage_Categories.py
-│   ├── 4_Budgets.py
-│   └── 5_Insights.py
-├── setup/                  # Backend and database logic
-│   └── db.py
-├── app.py                  # Main entry point
-├── requirements.txt        # Python dependencies
-├── README.md               # Project documentation
-└── budget_tracker.db       # SQLite database (auto-generated on first run)
 
 
 ---
